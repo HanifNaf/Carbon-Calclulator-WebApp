@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="323px" height="273px" viewBox="0 0 323 273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="65.4113765%" cy="70.0358372%" fx="65.4113765%" fy="70.0358372%" r="74.594514%" gradientTransform="translate(0.654114,0.700358),scale(0.845002,1.000000),rotate(-129.932731),scale(1.000000,1.194737),translate(-0.654114,-0.700358)" id="radialGradient-1">
+            <stop stop-color="#37BC99" offset="0%"></stop>
+            <stop stop-color="#146850" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M103.002888,272.5 L0,272.5 C0,122.002406 122.002406,0 272.5,0 C289.573685,0 306.280622,1.57023192 322.48428,4.57416258 C315.588048,42.4142909 309.345913,76.5149735 303.757875,106.87621 C293.62679,104.987516 283.178718,104 272.5,104 C179.221294,104 103.541031,179.347892 103.002888,272.5 Z" id="Path" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>
